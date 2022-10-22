@@ -1,4 +1,5 @@
 set -ex
 
-docker build --pull --no-cache --tag dmikhin/openvpn .
-docker push dmikhin/openvpn
+docker build --tag dmikhin/openvpn .
+#docker build --pull --no-cache --tag dmikhin/openvpn .
+#docker push dmikhin/openvpn

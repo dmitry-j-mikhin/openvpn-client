@@ -1,0 +1,12 @@
+-- Dummy file. Filled by antizapret script.
+blocked_hosts = {
+'kion.ru.',
+'mts.ru.',
+'mos.ru.',
+'lgtvsdp.com.',
+'lge.com.',
+'lgsmartad.com.',
+'firebaseinstallations.googleapis.com.',
+'firebaseremoteconfig.googleapis.com.',
+'mc.yandex.ru.',
+}
